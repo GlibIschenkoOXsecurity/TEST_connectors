@@ -4,3 +4,4 @@ Testing field for tests.
 
 There might be secrets here:
 MONGODB_PASSWORD: fhjk3453457gfk
+AWS_PASSWORD: dfsldfjkl333342
